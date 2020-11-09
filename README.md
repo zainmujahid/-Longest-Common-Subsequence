@@ -15,3 +15,8 @@ The input text file and the LCS output is shown below:
 - SpaCy
 - Pandas
 - ur_model
+
+## Install ur_model
+- Clone the repository 
+- Point the current directory to cloned repository and install "ur_model" as follow: `pip install ur_model-0.0.0.tar.gz`
+- You are all set to run the [lcs.py](lcs.py)
