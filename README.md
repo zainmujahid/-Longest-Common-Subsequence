@@ -11,3 +11,7 @@ The input text file and the LCS output is shown below:
 
 ![](./output.PNG)
 
+## Dependencies
+- SpaCy
+- Pandas
+- ur_model
